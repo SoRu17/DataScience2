@@ -30,6 +30,9 @@ Este estudio explora la profunda relación entre las condiciones climáticas y l
 
 Dentro del cuaderno de Colab, en la sección "Utilización de la API y Simulación de Ventas", encontrarás un ejemplo conceptual de cómo se interactuaría con la API de **OpenWeatherMap**. Para que esta sección funcione con datos reales, necesitarías una `API_KEY` válida, que generalmente se ingresa directamente en el código de Colab (o se gestiona como una variable de entorno) y **nunca debe subirse al repositorio público de GitHub.**
 
+* `Análisis de Tendencias Climáticas y su Impacto.pptx`: La presentación ejecutiva del proyecto.
+  **[Haz clic aquí para ver la presentación en Google Slides (recomendado para archivos grandes)](https://docs.google.com/presentation/d/1ESnGSdZC7b0zule8lkcrY0Kgwq2QgP2h/edit?usp=drive_link&ouid=109863444790990191392&rtpof=true&sd=true)**
+
 ## Conclusiones Clave del Proyecto
 
 Este análisis ha revelado patrones significativos que permiten:
