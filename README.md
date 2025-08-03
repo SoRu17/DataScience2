@@ -1,26 +1,28 @@
 # Análisis de Tendencias Climáticas y su Impacto en Ventas en Belgrano #
-¡Bienvenido al repositorio de este proyecto de análisis de datos!
+#¡Bienvenido al repositorio de este proyecto de análisis de datos!#
 
 Este estudio explora la profunda relación entre las condiciones climáticas y los patrones de venta de productos clave (helados, bebidas calientes, hielo y paraguas) en el barrio de Belgrano, Ciudad de Buenos Aires. El objetivo es transformar la intuición en decisiones de negocio estratégicas, aprovechando el poder de los datos climáticos y las técnicas de Machine Learning.
 
-Contenido del Repositorio
+#Contenido del Repositorio#
 Analisis_Clima_Ventas_Belgrano.ipynb: El cuaderno principal de análisis desarrollado en Google Colab, que ahora incluye un pipeline completo de Machine Learning:
 
-Limpieza y preprocesamiento de datos.
+##Limpieza y preprocesamiento de datos.##
 
-Análisis Exploratorio de Datos (EDA) detallado.
+##Análisis Exploratorio de Datos (EDA) detallado.##
 
-Visualizaciones interactivas de las correlaciones entre clima y ventas.
+##Visualizaciones interactivas de las correlaciones entre clima y ventas.##
 
-Entrenamiento y optimización de modelos de Machine Learning para la predicción de temperatura.
+##Entrenamiento y optimización de modelos de Machine Learning para la predicción de temperatura.##
 
-Resultados de la predicción final.
+##Resultados de la predicción final.##
 
 Análisis de Tendencias Climáticas y su Impacto.pptx: La presentación ejecutiva que resume los hallazgos, las conclusiones y las recomendaciones estratégicas del análisis.
 
-Cómo Abrir y Ejecutar el Proyecto
+##Cómo Abrir y Ejecutar el Proyecto##
 ¡Importante! Para la mejor experiencia y para garantizar la correcta ejecución de todas las secciones, usa el botón de "Open in Colab".
 ✨ Se recomienda encarecidamente abrir el cuaderno .ipynb directamente en Google Colab. ✨
+
+https://colab.research.google.com/drive/1UkVofAYomah9gEhlaIxUTkart0LCopVc?usp=sharing
 
 Nota: Por favor, asegúrate de reemplazar [tu_usuario] y [tu_repositorio] en el enlace de arriba con tu nombre de usuario de GitHub y el nombre de tu repositorio.
 
