@@ -1,4 +1,4 @@
-Análisis de Tendencias Climáticas y su Impacto en Ventas en Belgrano
+# Análisis de Tendencias Climáticas y su Impacto en Ventas en Belgrano #
 ¡Bienvenido al repositorio de este proyecto de análisis de datos!
 
 Este estudio explora la profunda relación entre las condiciones climáticas y los patrones de venta de productos clave (helados, bebidas calientes, hielo y paraguas) en el barrio de Belgrano, Ciudad de Buenos Aires. El objetivo es transformar la intuición en decisiones de negocio estratégicas, aprovechando el poder de los datos climáticos y las técnicas de Machine Learning.
@@ -16,19 +16,13 @@ Entrenamiento y optimización de modelos de Machine Learning para la predicción
 
 Resultados de la predicción final.
 
-Análisis de Tendencias Climáticas y su Impacto.pptx: La presentación ejecutiva que resume los hallazgos, las conclusiones y las recomendaciones estratégicas del análisis. Haz clic aquí para ver la presentación en Google Slides https://docs.google.com/presentation/d/1ESnGSdZC7b0zule8lkcrY0Kgwq2QgP2h/edit?usp=sharing&ouid=109863444790990191392&rtpof=true&sd=true.
+Análisis de Tendencias Climáticas y su Impacto.pptx: La presentación ejecutiva que resume los hallazgos, las conclusiones y las recomendaciones estratégicas del análisis.
 
 Cómo Abrir y Ejecutar el Proyecto
-¡Importante! Para la mejor experiencia y para garantizar la correcta ejecución de todas las secciones:
+¡Importante! Para la mejor experiencia y para garantizar la correcta ejecución de todas las secciones, usa el botón de "Open in Colab".
 ✨ Se recomienda encarecidamente abrir el cuaderno .ipynb directamente en Google Colab. ✨
 
-Pasos para abrir en Google Colab:
-
-Haga clic en el archivo Analisis_Clima_Ventas_Belgrano.ipynb en este repositorio.
-
-Una vez en la vista previa de GitHub del cuaderno, busca el botón "Open in Colab" (o un ícono de Colab) en la parte superior. Haga clic en él.
-
-Alternativamente, puedes ir directamente a Google Colab y desde allí, seleccionar Archivo > Abrir cuaderno > GitHub e ingresar la URL de este repositorio.
+Nota: Por favor, asegúrate de reemplazar [tu_usuario] y [tu_repositorio] en el enlace de arriba con tu nombre de usuario de GitHub y el nombre de tu repositorio.
 
 Nota sobre la clave API:
 Dentro del cuaderno de Colab, en la sección de la API, se muestra cómo se interactuaría con la API de OpenWeatherMap. Para que esta sección funcione con datos reales, necesitarías una API_KEY válida, que generalmente se ingresa directamente en el código de Colab (o se gestiona como una variable de entorno) y nunca debe subirse al repositorio público de GitHub.
