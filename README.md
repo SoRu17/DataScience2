@@ -16,7 +16,7 @@ Entrenamiento y optimización de modelos de Machine Learning para la predicción
 
 Resultados de la predicción final.
 
-Análisis de Tendencias Climáticas y su Impacto.pptx: La presentación ejecutiva que resume los hallazgos, las conclusiones y las recomendaciones estratégicas del análisis.
+Análisis de Tendencias Climáticas y su Impacto.pptx: La presentación ejecutiva que resume los hallazgos, las conclusiones y las recomendaciones estratégicas del análisis. Haz clic aquí para ver la presentación en Google Slides https://docs.google.com/presentation/d/1ESnGSdZC7b0zule8lkcrY0Kgwq2QgP2h/edit?usp=sharing&ouid=109863444790990191392&rtpof=true&sd=true.
 
 Cómo Abrir y Ejecutar el Proyecto
 ¡Importante! Para la mejor experiencia y para garantizar la correcta ejecución de todas las secciones:
