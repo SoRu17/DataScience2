@@ -20,9 +20,9 @@ Análisis de Tendencias Climáticas y su Impacto.pptx: La presentación ejecutiv
 
 ## Cómo Abrir y Ejecutar el Proyecto ##
 ¡Importante! Para la mejor experiencia y para garantizar la correcta ejecución de todas las secciones, usa el botón de "Open in Colab".
-✨ Se recomienda encarecidamente abrir el cuaderno .ipynb directamente en Google Colab. ✨
+✨ Se recomienda encarecidamente abrir el cuaderno .ipynb directamente en Google Colab. ✨ (cargado en repositorio de GitHub)
 
-https://colab.research.google.com/drive/1UkVofAYomah9gEhlaIxUTkart0LCopVc?usp=sharing
+
 
 ## Link a documentación PPTX ##
 https://docs.google.com/presentation/d/1ESnGSdZC7b0zule8lkcrY0Kgwq2QgP2h/edit?usp=sharing&ouid=109863444790990191392&rtpof=true&sd=true
